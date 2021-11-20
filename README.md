@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @hank0414
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hank0414/hank0414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in everething.(Exept boring things you think it's boring.)
+- 🌱 I’m currently learning like a student.
+- 💞️ I’m looking to collaborate on scratch codingand repls.
+- 📫 How to reach me : GUESS!
